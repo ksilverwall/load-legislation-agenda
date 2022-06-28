@@ -1,0 +1,13 @@
+{
+  "name": "load-legislation-agenda",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "main": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.8.1"
+  }
+}
